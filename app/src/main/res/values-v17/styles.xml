@@ -9,7 +9,7 @@
 
     <style name="WhiteBox">
         <!-- Customize your theme here. -->
-        <item name="android:background">@android:color/holo_green_light</item>
+        <item name="android:background">@android:color/white</item>
         <item name="android:textAlignment" tools:ignore="NewApi">center</item>
         <item name="android:textSize">@dimen/box_text_size</item>
         <item name="android:textStyle">bold</item>
